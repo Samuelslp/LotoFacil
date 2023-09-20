@@ -13,3 +13,14 @@ O sistema lê um char via teclado, de A à Z, comparando assim com o numero esco
 
 Regras para a aposta de número par ou ímpar:
 O prêmio será dado caso o usuário digite um número par. O sistema não irá premiar jogadores que digitarem um número ímpar.
+
+BIBLIOTECAS
+
+1. `java.util.Random`
+
+2. `java.util.Scanner`
+
+3. `java.lang.Character`
+
+Essas bibliotecas integram o Java padrão e não precisam de nenhuma instalação extra, pois elas estão disponíveis por padrão na linguagem Java. Elas podem ser usadas para realizar tarefas como leitura de entrada do usuário,  geração de números aleatórios e manipulação de caracteres.
+Versão do JDK Oracle OpenJDK  version 20.0.2
