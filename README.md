@@ -16,11 +16,18 @@ O prêmio será dado caso o usuário digite um número par. O sistema não irá 
 
 BIBLIOTECAS
 
-1. `java.util.Random`
-
-2. `java.util.Scanner`
-
-3. `java.lang.Character`
+1.  java.util.Random;
+2.  java.util.Scanner;
+3.  java.lang.Character;
+4.  java.awt.Color;
+5.  java.awt.FlowLayout;
+6.  java.awt.event.ActionEvent;
+7.  java.awt.event.ActionListener;
+8.  java.util.Random;
+9.  javax.swing.JButton;
+10. javax.swing.JFrame;
+11. javax.swing.JOptionPane;
+12. javax.swing.JPanel;
 
 Essas bibliotecas integram o Java padrão e não precisam de nenhuma instalação extra, pois elas estão disponíveis por padrão na linguagem Java. Elas podem ser usadas para realizar tarefas como leitura de entrada do usuário,  geração de números aleatórios e manipulação de caracteres.
 Versão do JDK Oracle OpenJDK  version 20.0.2
